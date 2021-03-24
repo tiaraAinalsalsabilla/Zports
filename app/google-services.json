@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747609506313",
+    "project_id": "zports-aa608",
+    "storage_bucket": "zports-aa608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747609506313:android:132493801a0cd49decaed8",
+        "android_client_info": {
+          "package_name": "com.aratiara.zports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747609506313-dls8qrkjasae7u4elrmqisemou79hi09.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aratiara.zports",
+            "certificate_hash": "c3ad7f86b033c10df4bacd6cd6188f75d9ccba4a"
+          }
+        },
+        {
+          "client_id": "747609506313-kqr8ajb0uvh5pdfinfgklt7dl3gdjgfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeEnLzW3sDqG57m_e_qwNmqWMzrM4e_0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747609506313-kqr8ajb0uvh5pdfinfgklt7dl3gdjgfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
